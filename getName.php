@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author Jorge Sanabria jesanabriah@correo.udistrital.edu.co
+ * Grupo Linux de la universidad Distrital (GLUD)
+ */
+
 function getName($id){
 
   //Connect to your database using the worpress files
