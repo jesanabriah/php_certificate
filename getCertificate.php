@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * @author Jorge Sanabria jesanabriah@correo.udistrital.edu.co
+ * Grupo Linux de la universidad Distrital (GLUD)
+ */
+  
 use setasign\Fpdi\Fpdi;
 
 require_once('fpdf/fpdf.php');
