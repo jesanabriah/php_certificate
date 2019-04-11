@@ -52,6 +52,8 @@ function getName($id){
   /* cerrar la conexión */
   $mysqli->close();
 
+  $name = utf8_decode($name);
+
   //return $name
   return $name;
 }
