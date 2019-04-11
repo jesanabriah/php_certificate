@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @author Jorge Sanabria jesanabriah@correo.udistrital.edu.co
+ * Grupo Linux de la universidad Distrital (GLUD)
+ */
+
 require_once('getName.php');
 require_once('getCertificate.php');
 
