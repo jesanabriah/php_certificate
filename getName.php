@@ -52,8 +52,8 @@ function getName($id){
   /* cerrar la conexión */
   $mysqli->close();
 
-  //Problema con las tildes
-  $name = utf8_decode($name);
+  //Descomentar para arreglar problema con las tildes
+  //$name = utf8_decode($name);
 
   //return $name
   return $name;
